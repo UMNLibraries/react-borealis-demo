@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import Borealis from 'react-borealis';
-console.log('hallo')
+
 const config =
   {
     image: {
